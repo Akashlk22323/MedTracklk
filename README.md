@@ -96,7 +96,7 @@ The system manages the complete appointment lifecycle from booking to completion
 - **CSS3** - Professional maroon + white styling
 - **JavaScript (Vanilla)** - Interactive functionality
 - **Chart.js** - Data visualization and analytics
-- **Google Maps API** - Location tracking and mapping
+- **LeafletJs map** - Location tracking and mapping
 
 ### Design
 - **Custom CSS Framework** - Maroon (#800000) + White (#FFFFFF) theme
@@ -114,7 +114,7 @@ The system manages the complete appointment lifecycle from booking to completion
 - **PHP 7.4** or higher
 - **MySQL 5.7** or higher
 - Modern web browser (Chrome, Firefox, Safari, Edge)
-- **Google Maps API Key** (optional, for location features)
+
 
 ### Quick Installation Guide
 
