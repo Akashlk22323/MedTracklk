@@ -1181,4 +1181,4 @@ If you found this project helpful, please consider giving it a star! It helps ot
 |----------------|-----------------|------------------|
 | username: admin | username: Dr.silva | patient can register |
 | Password: admin123 | Password: doctor123 | Password:  |
-| ![Admin](screenshotsadmin.png) | ![Doctor](screenshotsdoctor.png) | ![Patient](screenshotspatient.png) |
+| ![Admin](screenshots/screenshotsadmin.png) | ![Doctor](screenshots/screenshotsdoctor.png) | ![Patient](screenshots/screenshotspatient.png) |
